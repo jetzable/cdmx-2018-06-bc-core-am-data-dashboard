@@ -121,3 +121,17 @@ Con base en la información recabada durante el proceso de UX, y con las delimit
 Se puede consultar el prototipo en la siguiente liga:
 https://xd.adobe.com/view/8c8a6882-d344-4a2d-5c7d-4e431171abc4-fabb/
 Este prototipo nos sirvió de guía al momento de maquetar la interfaz definitiva y nos ayudo a establecer la lógica a seguir, así como las funciones necesarias para ejecutar las interacciones deseadas.
+
+## Prueba de Interfaz Móvil.
+
+Despues de maquetar la interfaz, se decidió hacer una prueba directamente con un usuario, el cual participó desde un dispositivo móvil. De esa interacción se obtuvó feedback sobre los siguientes puntos:
+
+ _Pantalla de LogIn (versión móvil) demasiado estrecha, no se distinguía bien el texto._
+
+<img src=/ux/media/jpg/TestConUser5.jpeg alt="userInteraction1" width="50%" height="50%">
+
+_Borde Negro de menú de navegación (versión móvil), genera distracción._
+
+<img src=/ux/media/jpg/TestConUser2.jpeg alt="userInteraction2" width="50%" height="50%">
+
+Se hicieron los cambios correspondientes obteniendo la versión definitiva.
